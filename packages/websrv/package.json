@@ -1,0 +1,30 @@
+{
+  "name": "websrv",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "jiadai <jiadai@nbnco.com.au>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/websrv.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "cal": "^0.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}

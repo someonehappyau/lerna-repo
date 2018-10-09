@@ -1,0 +1,25 @@
+{
+  "name": "cal",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "jiadai <jiadai@nbnco.com.au>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cal.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1"
+  }
+}
